@@ -1,0 +1,41 @@
+body
+{
+    /*font-family: 'Merriweather Sans', sans-serif;*/
+}
+
+#header-contenedor,
+footer{
+    background-color: rgb(50, 148, 132);
+    color: white;
+}
+
+.btn.btn-programacionxyz
+{
+    background-color: rgb(33, 95, 85);
+    color: white;
+    margin-left: 5px;
+}
+
+.btn.btn-programacionxyz:hover {
+    background-color: rgb(33, 126, 110);
+}
+
+.btn.btn-programacionxyz:active{
+    background-color:rgb(49, 189, 165);
+}
+
+.nav-link:hover{
+    color : white;
+}
+
+.nav-link
+{
+    color: rgb(33, 95, 85);
+    font-weight: 500;
+}
+
+.nav-item.active a
+{
+    color: #FFF;
+}
+   
